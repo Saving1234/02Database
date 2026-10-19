@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourcePerFileMappings">
+    <file url="file://$PROJECT_DIR$/.idea/Employee/01_DQL/00_menudb_script.sql" value="a69a9ac5-3e33-4dcd-aa77-e9b068515d0e" />
+    <file url="file://$PROJECT_DIR$/.idea/Employee/01_DQL/01_Select.sql" value="a16e390e-2eb0-4516-a6f6-e24931ba3014" />
+    <file url="file://$PROJECT_DIR$/.idea/Employee/01_DQL/02_Order_By.sql" value="a16e390e-2eb0-4516-a6f6-e24931ba3014" />
+    <file url="file://$PROJECT_DIR$/.idea/Employee/01_DQL/03_Where.sql" value="a16e390e-2eb0-4516-a6f6-e24931ba3014" />
+    <file url="file://$PROJECT_DIR$/.idea/Employee/01_DQL/04_Distinct.sql" value="a16e390e-2eb0-4516-a6f6-e24931ba3014" />
+    <file url="file://$PROJECT_DIR$/.idea/Employee/01_DQL/05_Limit.sql" value="a16e390e-2eb0-4516-a6f6-e24931ba3014" />
+    <file url="file://$PROJECT_DIR$/.idea/Employee/01_DQL/06_Bulit_in_Function.sql" value="a16e390e-2eb0-4516-a6f6-e24931ba3014" />
+    <file url="file://$PROJECT_DIR$/.idea/Employee/01_DQL/07_Join.sql" value="a16e390e-2eb0-4516-a6f6-e24931ba3014" />
+    <file url="file://$PROJECT_DIR$/.idea/Employee/01_DQL/08_Grupping.sql" value="a16e390e-2eb0-4516-a6f6-e24931ba3014" />
+    <file url="file://$PROJECT_DIR$/.idea/Employee/01_DQL/09_SubQuary.sql" value="a16e390e-2eb0-4516-a6f6-e24931ba3014" />
+    <file url="file://$PROJECT_DIR$/.idea/Employee/01_DQL/10_Set_Operators.sql" value="a16e390e-2eb0-4516-a6f6-e24931ba3014" />
+    <file url="file://$PROJECT_DIR$/.idea/lecture/02_DML/01_DML.sql" value="a16e390e-2eb0-4516-a6f6-e24931ba3014" />
+    <file url="file://$PROJECT_DIR$/.idea/lecture/03_Transaction/Transaction.sql" value="a16e390e-2eb0-4516-a6f6-e24931ba3014" />
+    <file url="file://$PROJECT_DIR$/.idea/lecture/04_DDL/01DDL.sql" value="a69a9ac5-3e33-4dcd-aa77-e9b068515d0e" />
+    <file url="file://$PROJECT_DIR$/.idea/lecture/04_DDL/02_Constains_DDL.sql" value="a69a9ac5-3e33-4dcd-aa77-e9b068515d0e" />
+    <file url="file://$PROJECT_DIR$/.idea/lecture/04_DDL/03_View.sql" value="a16e390e-2eb0-4516-a6f6-e24931ba3014" />
+    <file url="file://$PROJECT_DIR$/.idea/lecture/04_DDL/04_Index.sql" value="a69a9ac5-3e33-4dcd-aa77-e9b068515d0e" />
+    <file url="file://$PROJECT_DIR$/.idea/practice/MMSDB/mmedb.sql" value="a16e390e-2eb0-4516-a6f6-e24931ba3014" />
+    <file url="file://$PROJECT_DIR$/Set_up/01_Create_User.sql" value="a16e390e-2eb0-4516-a6f6-e24931ba3014" />
+    <file url="file://$PROJECT_DIR$/Set_up/02_Create_tables_menudb.sql" value="a16e390e-2eb0-4516-a6f6-e24931ba3014" />
+    <file url="file://$PROJECT_DIR$/Set_up/03_Create_table_new.sql" value="a16e390e-2eb0-4516-a6f6-e24931ba3014" />
+  </component>
+</project>
